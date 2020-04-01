@@ -1,0 +1,92 @@
+<!-- Example file from: http://www.w3schools.com/XML/plant_catalog.xml -->
+<?xml version="1.0"?>
+<catalog>
+  <plant>
+    <common>Bloodroot</common>
+    <botanical>Sanguinaria canadensis</botanical>
+    <zone>4</zone>
+    <light>Mostly Shady</light>
+    <price>$2.44</price>
+    <availability>031599</availability>
+  </plant>
+  <plant>
+    <common>Hepatica</common>
+    <botanical>Hepatica americana</botanical>
+    <zone>4</zone>
+    <light>Mostly Shady</light>
+    <price>$4.45</price>
+    <availability>012699</availability>
+  </plant>
+  <plant>
+    <common>Liverleaf</common>
+    <botanical>Hepatica americana</botanical>
+    <zone>4</zone>
+    <light>Mostly Shady</light>
+    <price>$3.99</price>
+    <availability>010299</availability>
+  </plant>
+  <plant>
+    <common>Jack-In-The-Pulpit</common>
+    <botanical>Arisaema triphyllum</botanical>
+    <zone>4</zone>
+    <light>Mostly Shady</light>
+    <price>$3.23</price>
+    <availability>020199</availability>
+  </plant>
+  <plant>
+    <common>Mayapple</common>
+    <botanical>Podophyllum peltatum</botanical>
+    <zone>3</zone>
+    <light>Mostly Shady</light>
+    <price>$2.98</price>
+    <availability>060599</availability>
+  </plant>
+  <plant>
+    <common>Trout Lily</common>
+    <botanical>Erythronium americanum</botanical>
+    <zone>4</zone>
+    <light>Shade</light>
+    <price>$6.94</price>
+    <availability>032499</availability>
+  </plant>
+  <plant>
+    <common>Grecian Windflower</common>
+    <botanical>Anemone blanda</botanical>
+    <zone>6</zone>
+    <light>Mostly Shady</light>
+    <price>$9.16</price>
+    <availability>071099</availability>
+  </plant>
+  <plant>
+    <common>Bee Balm</common>
+    <botanical>Monarda didyma</botanical>
+    <zone>4</zone>
+    <light>Shade</light>
+    <price>$4.59</price>
+    <availability>050399</availability>
+  </plant>
+  <plant>
+    <common>Bergamot</common>
+    <botanical>Monarda didyma</botanical>
+    <zone>4</zone>
+    <light>Shade</light>
+    <price>$7.16</price>
+    <availability>042799</availability>
+  </plant>
+  <plant>
+    <botanical>Rudbeckia hirta</botanical>
+    <zone>Annual</zone>
+    <light>Sunny</light>
+    <price>$9.80</price>
+    <availability>061899</availability>
+  </plant>
+  <plant>
+    <common>Buttercup</common>
+    <botanical>Ranunculus</botanical>
+    <zone>4</zone>
+    <light>Shade</light>
+    <price>$2.57</price>
+    <availability>061099</availability>
+  </plant>
+
+</catalog>
